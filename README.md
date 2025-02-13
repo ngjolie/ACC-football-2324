@@ -1,2 +1,2 @@
 # ACC-football-2324
-score prediction scripts and data for NCAA ACC conference teams
+historical data, score prediction scripts, and data visualization for NCAA ACC conference teams
