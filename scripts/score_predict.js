@@ -3,7 +3,7 @@ function predictScores1() {
   var dataRange = sheet.getDataRange();
   var data = dataRange.getValues();
   
-  var featuresHOME = [];
+  var featuresHOME = []; 
   var featuresOPP = [];
   var scoresHOME = [];
   var scoresOPP = [];
